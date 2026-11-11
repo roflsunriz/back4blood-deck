@@ -24,6 +24,8 @@ WindowsのSteam版を対象に、ツールのビルドから、ゲーム本体�
 
 [ゲームプレイ設定の全項目一覧](docs/gameplay-values/README.md)には、設定名・元の値・編集箇所と、オフライン／オンラインの適用先を収録しています。
 
+[オンラインで体験を大きく変える設定](docs/10-online-high-impact.md)に、優先して触りたい値と設定例をまとめています。
+
 リンク切れ時は[出典の控えと同梱ソース](references/README.md)を使えます。
 
 出典：[B4B対応repakのソース](https://github.com/trumank/repak/tree/patch-back4blood)・[MODの導入方式](https://smooversyt.github.io/2024-04-24-new-modding-method/)（[GitHub原文](https://raw.githubusercontent.com/SmooversYT/SmooversYT.github.io/master/_posts/2024-04-24-new-modding-method.md)）・[デッキMODの仕組み](https://www.nexusmods.com/back4blood/mods/35)
