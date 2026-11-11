@@ -7,7 +7,6 @@ tools/
 /src/repak/
 /vendor/repak/target/
 backups/
-data/
 *.pak
 *.sig
 *.uasset
