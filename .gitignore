@@ -1,0 +1,24 @@
+# ローカルの検証用データとゲーム由来のファイルを公開対象から外す
+.work/
+work/
+staging/
+dist/
+tools/
+/src/repak/
+/vendor/repak/target/
+backups/
+data/
+*.pak
+*.sig
+*.uasset
+*.uexp
+*.ubulk
+*.usmap
+*.sav
+*.bak
+*.exe
+*.dll
+*.zip
+*.7z
+*.pyc
+__pycache__/

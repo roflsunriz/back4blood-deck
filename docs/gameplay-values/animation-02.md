@@ -1,0 +1,310 @@
+# アニメーション・Notify・物理：全項目 2
+
+[全分野](README.md) · [編集ガイド](../06-gameplay-values.md)
+
+同じプロパティ名のGUIDと配列番号をまとめています。正確なファイル・行・番号・元の値はCSVを参照してください。
+
+| プロパティ | 型 | 元の値の例 | オフライン | オンライン | 根拠 | 収録数 |
+| --- | --- | --- | --- | --- | --- | ---: |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.Base.LinkID` | Int | 109, 119, 53 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_14.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.Additive.LinkID` | Int | 108, 122, 44 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.Base.LinkID` | Int | 107, 118, 43 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_15.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.Additive.LinkID` | Int | 106, 117, 40 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.Base.LinkID` | Int | 137, 112, 39 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_16.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.Additive.LinkID` | Int | 103, 115, 27 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.Base.LinkID` | Int | 58, 111, 25 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_17.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.Additive.LinkID` | Int | 101, 110, 23 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.Alpha` | Float | 0.10000000149011612, 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.Base.LinkID` | Int | 84, 105, 22 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_18.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.Additive.LinkID` | Int | 59, 108, 19 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.Alpha` | Float | 0.10000000149011612, 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.Base.LinkID` | Int | 102, 104, 17 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_19.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_2.Additive.LinkID` | Int | 35, 12, 473, 165 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.Alpha` | Float | 1.0, 0.25 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.Base.LinkID` | Int | 51, 14, 472, 162 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_2.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 10 |
+| `AnimGraphNode_ApplyAdditive_20.Additive.LinkID` | Int | 13, 96 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.Base.LinkID` | Int | 12, 93, 11 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_20.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 3 |
+| `AnimGraphNode_ApplyAdditive_21.Additive.LinkID` | Int | 11, 97 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.Base.LinkID` | Int | 10, 92 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_21.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.Additive.LinkID` | Int | 9, 74 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.AlphaBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.AlphaBlend.BlendTime` | Float | 0.20000000298023224 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.AlphaBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.BlendInTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.BlendOption` | Enum | EAlphaBlendOption::Linear | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.BlendOutTime` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.CustomCurve` | Object | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaBoolBlend.bInitialized` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaCurveName` | Name | None | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaInputType` | Enum | EAnimAlphaInputType::Float | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBias.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBias.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.Bias` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.ClampMax` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.ClampMin` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.InRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.InRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.InterpSpeedDecreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.InterpSpeedIncreasing` | Float | 10.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.OutRange.Max` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.OutRange.Min` | Float | +0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.Scale` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.bClampResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.bInterpResult` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.AlphaScaleBiasClamp.bMapRange` | Bool | false | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.Base.LinkID` | Int | 40, 89 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.LODThreshold` | Int | -1 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_22.bAlphaBoolEnabled` | Bool | true | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 2 |
+| `AnimGraphNode_ApplyAdditive_23.Additive.LinkID` | Int | 73 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 1 |
+| `AnimGraphNode_ApplyAdditive_23.Alpha` | Float | 1.0 | 適用と推定 | 未確定 | [U01](../../references/gameplay-catalog-rules.md#u01) | 1 |
+
+CSV：[animation-01.csv.gz](../../data/gameplay-values/animation-01.csv.gz) · [animation-02.csv.gz](../../data/gameplay-values/animation-02.csv.gz) · [animation-03.csv.gz](../../data/gameplay-values/animation-03.csv.gz) · [animation-04.csv.gz](../../data/gameplay-values/animation-04.csv.gz) · [animation-05.csv.gz](../../data/gameplay-values/animation-05.csv.gz) · [animation-06.csv.gz](../../data/gameplay-values/animation-06.csv.gz) · [animation-07.csv.gz](../../data/gameplay-values/animation-07.csv.gz) · [animation-08.csv.gz](../../data/gameplay-values/animation-08.csv.gz) · [animation-09.csv.gz](../../data/gameplay-values/animation-09.csv.gz) · [animation-10.csv.gz](../../data/gameplay-values/animation-10.csv.gz) · [animation-11.csv.gz](../../data/gameplay-values/animation-11.csv.gz) · [animation-12.csv.gz](../../data/gameplay-values/animation-12.csv.gz) · [animation-13.csv.gz](../../data/gameplay-values/animation-13.csv.gz) · [animation-14.csv.gz](../../data/gameplay-values/animation-14.csv.gz) · [animation-15.csv.gz](../../data/gameplay-values/animation-15.csv.gz) · [animation-16.csv.gz](../../data/gameplay-values/animation-16.csv.gz) · [animation-17.csv.gz](../../data/gameplay-values/animation-17.csv.gz) · [animation-18.csv.gz](../../data/gameplay-values/animation-18.csv.gz) · [animation-19.csv.gz](../../data/gameplay-values/animation-19.csv.gz) · [animation-20.csv.gz](../../data/gameplay-values/animation-20.csv.gz) · [animation-21.csv.gz](../../data/gameplay-values/animation-21.csv.gz) · [animation-22.csv.gz](../../data/gameplay-values/animation-22.csv.gz) · [animation-23.csv.gz](../../data/gameplay-values/animation-23.csv.gz) · [animation-24.csv.gz](../../data/gameplay-values/animation-24.csv.gz) · [animation-25.csv.gz](../../data/gameplay-values/animation-25.csv.gz) · [animation-26.csv.gz](../../data/gameplay-values/animation-26.csv.gz) · [animation-27.csv.gz](../../data/gameplay-values/animation-27.csv.gz) · [animation-28.csv.gz](../../data/gameplay-values/animation-28.csv.gz) · [animation-29.csv.gz](../../data/gameplay-values/animation-29.csv.gz) · [animation-30.csv.gz](../../data/gameplay-values/animation-30.csv.gz) · [animation-31.csv.gz](../../data/gameplay-values/animation-31.csv.gz) · [animation-32.csv.gz](../../data/gameplay-values/animation-32.csv.gz) · [animation-33.csv.gz](../../data/gameplay-values/animation-33.csv.gz) · [animation-34.csv.gz](../../data/gameplay-values/animation-34.csv.gz) · [animation-35.csv.gz](../../data/gameplay-values/animation-35.csv.gz) · [animation-36.csv.gz](../../data/gameplay-values/animation-36.csv.gz) · [animation-37.csv.gz](../../data/gameplay-values/animation-37.csv.gz)
